@@ -1,5 +1,24 @@
 The document is an overview of "Clean Architecture" by Robert C. Martin, focusing on software design principles, programming paradigms, and best practices for software development.
 
+# Chapter 1 – What Is Design and Architecture?
+
+## Purpose
+Clarify the role and value of software design and architecture in long-term system success.
+
+## Key Concepts
+- **Design = Architecture**: No real difference; both shape the system to reduce future effort.
+- **Goal**: Minimize cost and effort to develop and maintain software.
+- **Productivity Trap**: Poor architecture leads to rising costs and slower development, despite adding more developers.
+- **The Hare Myth**: Rushing (build now, clean later) is a lie. You rarely clean later.
+- **Reality**: Good design accelerates progress. Bad design kills momentum.
+
+## Quote
+> "The only way to go fast is to go well." — Robert C. Martin
+
+## Takeaway
+Build it right from the start. Clean architecture is an investment in speed and stability.
+
+
 # Chapter 17 – Boundaries: Drawing Lines
 
 ## Purpose
