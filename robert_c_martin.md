@@ -18,6 +18,23 @@ Clarify the role and value of software design and architecture in long-term syst
 ## Takeaway
 Build it right from the start. Clean architecture is an investment in speed and stability.
 
+# Chapter 2 – A Tale of Two Values
+
+## Focus
+Defines the two values software provides: functionality (behavior) and flexibility (structure).
+
+## Key Insights
+- **Short-term bias**: Teams often prioritize features over maintainability.
+- **Architecture = strategic**: Makes future changes affordable and fast.
+- **Urgency ≠ Importance**: Features feel urgent, but architecture is what keeps software alive.
+- **Developer's Role**: Advocate for architecture when others won't.
+
+## Visual Model
+- Based on Eisenhower’s Matrix: Architecture sits in “important, not urgent”.
+
+## Action Point
+Keep code soft. Fight for design even under feature pressure.
+
 
 # Chapter 17 – Boundaries: Drawing Lines
 
